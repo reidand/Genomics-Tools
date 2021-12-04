@@ -1,5 +1,5 @@
 # Returns Longest ORF in a fasta file
-f = open("dna2.fasta", "r")
+f = open("FILENAME.fasta", "r")
 file = f.readlines()
 
 sequences = []
